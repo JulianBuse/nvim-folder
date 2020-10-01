@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/julian'
+let g:netrw_dirhist_1='/home/julian/Documents'
+let g:netrw_dirhist_0='/home/julian/Documents/GitHub'
+let g:netrw_dirhist_9='/home/julian/Documents/GitHub/hentai-reccomendations'
+let g:netrw_dirhist_8='/home/julian/Documents/GitHub/hentai-reccomendations/pages'
+let g:netrw_dirhist_7='/home/julian/Documents/GitHub/hentai-reccomendations/pages/api'
+let g:netrw_dirhist_6='/home/julian/Documents/GitHub/hentai-reccomendations/pages'
+let g:netrw_dirhist_5='/home/julian/Documents/GitHub/hentai-reccomendations'
+let g:netrw_dirhist_4='/home/julian/Documents/GitHub'
+let g:netrw_dirhist_3='/home/julian/Documents'
